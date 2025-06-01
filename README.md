@@ -1,5 +1,3 @@
-# Math-CV-Projects
-
 # Math Computer Vision Projects
 
 A collection of mathematical approaches to computer vision problems
