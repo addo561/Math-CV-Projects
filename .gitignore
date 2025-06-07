@@ -1,3 +1,8 @@
-.ipynb_checkpoints
-.ropeproject
-__pycache__
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Rope project settings (used by Python IDEs like PyCharm or VSCode extensions)
+.ropeproject/
+
+# Ignore Python bytecode cache
+__pycache__/
