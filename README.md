@@ -27,5 +27,6 @@ Each project contains its own directory with implementation code, examples, and 
 
 - `image_denoising.ipynb` - SVD-based image denoising implementation
 - `Edge_detection.py` - Laplacian Edge  detection method.
+- `Image_compression.ipynb`- With svd.
 
 More projects coming soon!
