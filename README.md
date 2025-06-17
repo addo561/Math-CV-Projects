@@ -2,19 +2,11 @@
 
 A collection of mathematical approaches to computer vision problems
 
-## Projects
 
-### 1. SVD Image Denoising
-Implementation of Singular Value Decomposition for image noise reduction. This project demonstrates how matrix factorization can be used to separate signal from noise in digital images.
-
-**Key Concepts:**
-- Singular Value Decomposition (SVD)
-- Low-rank approximation
-- Image processing fundamentals
 
 ## Getting Started
 
-Each project contains its own directory with implementation code, examples, and documentation.
+Each project contains its own directory with implementation code and  exmaples.
 
 ## Requirements
 
@@ -22,9 +14,10 @@ Each project contains its own directory with implementation code, examples, and 
 - NumPy
 - SciPy
 - Matplotlib
+- cv
 
 ## Current Projects
-
+### Phase I
 - `image_denoising.ipynb` - SVD-based image denoising implementation
 - `Edge_detection.py` - Laplacian Edge  detection method.
 - `Image_compression.ipynb`- With svd.
